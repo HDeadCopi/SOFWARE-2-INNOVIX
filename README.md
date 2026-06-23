@@ -1,11 +1,11 @@
-SITIO WEB PARA LA VENTA DE PRODUCTOS TECNOLÓGICOS INNOVIX
+Innovix: Plataforma Web para la Comercialización de Productos Electrónicos
 
 Integrantes
 Aldair Bastos
 Juan Pablo Merchan
-Julian Jaimes
+
 
 Objetivo general:
-Desarrollar un sitio web para la comercialización de productos tecnológicos del emprendimiento Innovix
+Desarrollar una plataforma web para la comercialización de productos tecnológicos del emprendimiento Innovix
 que permita a los usuarios explorar, seleccionar y adquirir productos mediante una plataforma digital moderna, segura y fácil de utilizar.
 
